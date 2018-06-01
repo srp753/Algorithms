@@ -5,12 +5,7 @@ Created on Fri May 25 13:38:18 2018
 
 @author: snigdha
 """
-"""
-import heapq
-listForTree = [15,8,9,3,18]    
-heapq.heapify(listForTree)             # for a min heap
-heapq._heapify_max(listForTree)        # for a maxheap!!
-"""
+
 
 import copy
 
